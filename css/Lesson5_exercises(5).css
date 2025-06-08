@@ -1,0 +1,40 @@
+
+  p{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .new{
+    color: orange;
+    margin-bottom: 0;
+  }
+  .model{
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 4px;
+    margin-bottom: 0;
+  }
+  .quality{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 4px;
+  }
+  .cost{
+    color:rgb(96, 96, 96);
+    margin-top: 12px;
+    margin-bottom: 20px;
+  }
+  .buy-button{
+    background-color:rgb(0,113,227);
+    color:white;
+    border:none;
+    border-radius: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor:pointer;
+    font-weight: bold;
+    margin-top: 5px;
+  }

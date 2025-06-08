@@ -1,0 +1,55 @@
+
+  .amazon{
+    color: rgb(0, 113, 133);
+    font-size: 18px;
+    transition: color 0.15s;
+  }
+  .amazon:hover{
+    color: rgb(199, 81, 31);
+  }
+  .shoes{
+    font-size: 29px;
+    font-weight: bold;
+  }
+
+  .stock{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .delivery{
+    font-size: 18px;
+  }
+
+  .button1{
+    background-color: rgb(255, 216, 20);
+    height: 30px;
+    width: 105px;
+    border: none;
+    border-radius: 30px;
+    font-size: 13.5px;
+    font-weight:4px;
+  }
+  .button1:hover{
+    background-color: rgb(247, 202, 0);
+  }
+  .button1:active{
+    opacity:0.5;
+  }
+
+  .button2{
+    background-color: rgb(255, 164, 28);
+    height: 30px;
+    width: 105px;
+    border: none;
+    border-radius: 30px;
+    font-size: 13.5px;
+    margin-left: 5px;
+ }
+ .button2:hover{
+    background-color: rgb(250, 137, 0);
+ }
+ .button2:active{
+    opacity: 0.5;
+ }

@@ -1,0 +1,22 @@
+
+  p{
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .website{
+    font-weight: bold;
+  }
+  .email{
+    color:rgb(100, 100, 100);
+  }
+  .description{
+    width: 500px;
+    line-height: 24px;
+     margin-bottom: 20px;
+     margin-top: 10px;
+  }
+  .mention{
+    color:rgb(29, 155, 240);
+  }

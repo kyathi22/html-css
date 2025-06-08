@@ -1,0 +1,21 @@
+
+    .back-button{
+        margin-right: 8px;
+        margin-left: 8px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 16px;
+    }
+    .search-button{
+        margin-left: 4px;
+        margin-right: 4px;
+        font-size: 18px;
+    }
+    .next-button{
+        margin-left: 8px;
+        margin-right: 8px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 16px;
+    }
+

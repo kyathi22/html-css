@@ -1,0 +1,40 @@
+p{
+    font-family: Arial;
+}
+.ride-req{
+    font-size: 40px;
+    display:block;
+    margin-bottom: 25px;
+}
+input{
+    display: block;
+    background-color: rgb(240,240,240);
+    width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    border:none;
+    font-size: 16px;
+}
+.destination{
+    margin-bottom:34px;
+}
+.request{
+    background-color: black;
+    color:white;
+    border:none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.Schedule{
+    border:none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: 20px;
+}

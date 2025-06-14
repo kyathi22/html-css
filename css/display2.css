@@ -1,0 +1,10 @@
+.survey,
+.yes,
+.no{
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+.survey{
+    width: 200px;
+}

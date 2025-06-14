@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.search-box{
+    font-size: 16px;
+    padding-left:16px;
+    padding-right:16px;
+    width: 500px; 
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 30px;
+    border:none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    margin-bottom: 30px;
+}
+.google-button{
+    background-color: rgb(245,245,245);
+    border: none;
+    font-size: 15px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+.search-button{
+    margin-right:10px;
+}
